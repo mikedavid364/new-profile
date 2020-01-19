@@ -1,0 +1,93 @@
+
+ .header {
+	height: 100%;
+	width: 100%;
+}
+
+article{
+	margin-top: 100px;
+}
+
+article h1{
+	font-family: 'Fredericka the Great', cursive;
+	color:#3E9C84;
+	font-size:60px;
+}
+
+article h2{
+	font-family: 'Abril Fatface', cursive;
+	color:#B37870;
+	font-size:24px;
+}
+
+.main img{
+	height:150px;
+	width:auto;
+	margin-top: 40px;
+}
+
+.main{
+	text-align: center;
+}
+
+.mike img {
+	margin-top: 20px;
+}
+
+.design{
+	margin-top: 60px;
+}
+
+.design img {
+	margin-top: 20px;
+}
+
+.develop{
+	margin-top: 60px;
+}
+
+.develop img {
+	margin-top: 20px;
+}
+
+.projects h1{
+	margin-top:100px;
+	font-family: 'Fredericka the Great', cursive;
+	color:#3E9C84;
+	font-size:80px;
+}
+
+.projects img{
+	height: 100%;
+	width: 100%;
+	margin-top: 100px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#uag{
+}
+
+footer{
+	margin-top: 100px;
+	background-color: #C6DED7;
+	font-family: 'Abril Fatface', cursive;
+	color:#B37870;
+	font-size:24px;
+}
+
+footer h3{
+	text-align: center;
+	margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
